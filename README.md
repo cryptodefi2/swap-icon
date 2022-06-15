@@ -1,3 +1,3 @@
-# swapicon
+# swap-icon
 
-token
+
